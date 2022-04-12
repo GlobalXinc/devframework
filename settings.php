@@ -9,7 +9,7 @@ define('DBPASS', '');
 define('DBNAME', 'ai');
 
 // alamat web di install/dijalankan...
-define('___URL', 'http://localhost/cms');
+define('___URL', 'http://manager.test');
 define('___ASSETS', ___URL . '/assets');
 define('___MEDIA', ___ASSETS . '/files');
 
